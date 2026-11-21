@@ -1,4 +1,4 @@
-# *The Music of the Primes* bug tracker and repair
+# *The Music of the Primes* bug tracker
 
 Bug and repair tracker for Alessandro Maria Masullo's *The Music of the Primes*. The global trace comparison remains open.
 
