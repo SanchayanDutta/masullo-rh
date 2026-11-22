@@ -1,6 +1,6 @@
 # RH-8.02 Normalization and missing statements
 
-[Repository index](../README.md) | [Editing guide and source edition](../CONTRIBUTING.md)
+[Repository index](../README.md) | [Editing rules and source edition](../README.md#updating-entries)
 
 **Kind** Source discrepancy. **Repair state** Open. **Patch state** Not recorded.
 

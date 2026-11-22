@@ -1,6 +1,6 @@
 # RH-9.07 Final global operator estimate
 
-[Repository index](../README.md) | [Editing guide and source edition](../CONTRIBUTING.md)
+[Repository index](../README.md) | [Editing rules and source edition](../README.md#updating-entries)
 
 **Kind** Global obligation. **Repair state** Open. **Patch state** Not recorded.
 
@@ -37,4 +37,10 @@ A noncircular operator derivation of the displayed quantified upper bound with a
 
 These links describe the proposed application. They are not formal prerequisites for every local calculation.
 
-**Updates** No changes recorded after the baseline.
+## Independent progress on November 21, 2026
+
+The new [independent report](../repairs/independent_masullo_progress.pdf#page=5) gives a separate arithmetic route through local Mertens increments. Its localization theorem is tracked in [RH-10.03](../repairs/RH-10.03-local-mertens-localization.md), and the missing unbounded sequence of cutoffs is tracked in [RH-10.06](RH-10.06-cofinal-cutoff-selection.md).
+
+This does not establish the operator estimate above. The report explicitly leaves the cofinal arithmetic upper bound, the sign of the physical shell integral, and a closed Lean proof of ordinary RH open. No Lean build was rerun for this update.
+
+**Updates** 2026-11-21. Added the independent arithmetic progress without closing the global trace obligation.

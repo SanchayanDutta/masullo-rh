@@ -1,6 +1,6 @@
 # RH-9.01 Local trace and global transfer
 
-[Repository index](../README.md) | [Editing guide and source edition](../CONTRIBUTING.md)
+[Repository index](../README.md) | [Editing rules and source edition](../README.md#updating-entries)
 
 **Kind** Proof gap. **Repair state** Open. **Patch state** Not recorded.
 

@@ -1,6 +1,6 @@
 # RH-2.01 Prime sign and polar values
 
-[Repository index](../README.md) | [Editing guide and source edition](../CONTRIBUTING.md)
+[Repository index](../README.md) | [Editing rules and source edition](../README.md#updating-entries)
 
 **Kind** Defect. **Repair state** Local verified. **Patch state** Not recorded.
 

@@ -1,6 +1,6 @@
 # RH-1.04 Missing half-unit strip shift
 
-[Repository index](../README.md) | [Editing guide and source edition](../CONTRIBUTING.md)
+[Repository index](../README.md) | [Editing rules and source edition](../README.md#updating-entries)
 
 **Kind** Source discrepancy. **Repair state** Local verified. **Patch state** Not recorded.
 

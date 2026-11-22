@@ -1,6 +1,6 @@
 # RH-1.02 Divergent endpoint and Montel bound
 
-[Repository index](../README.md) | [Editing guide and source edition](../CONTRIBUTING.md)
+[Repository index](../README.md) | [Editing rules and source edition](../README.md#updating-entries)
 
 **Kind** Defect. **Repair state** Conditional. **Patch state** Not recorded.
 
