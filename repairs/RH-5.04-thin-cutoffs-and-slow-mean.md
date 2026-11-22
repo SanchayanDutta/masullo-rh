@@ -1,6 +1,6 @@
 # RH-5.04 Thin cutoffs and slow mean
 
-[Repository index](../README.md) | [Editing guide and source edition](../CONTRIBUTING.md)
+[Repository index](../README.md) | [Editing rules and source edition](../README.md#updating-entries)
 
 **Kind** Repair. **Repair state** Local verified. **Patch state** Not recorded.
 

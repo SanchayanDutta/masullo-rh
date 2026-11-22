@@ -1,6 +1,6 @@
 # RH-4.03 Finite Taylor-jet traces
 
-[Repository index](../README.md) | [Editing guide and source edition](../CONTRIBUTING.md)
+[Repository index](../README.md) | [Editing rules and source edition](../README.md#updating-entries)
 
 **Kind** Repair. **Repair state** Conditional. **Patch state** Not recorded.
 

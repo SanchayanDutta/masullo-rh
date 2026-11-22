@@ -1,6 +1,6 @@
 # RH-5.06 One radius for a signed error
 
-[Repository index](../README.md) | [Editing guide and source edition](../CONTRIBUTING.md)
+[Repository index](../README.md) | [Editing rules and source edition](../README.md#updating-entries)
 
 **Kind** Repair. **Repair state** Conditional. **Patch state** Not recorded.
 

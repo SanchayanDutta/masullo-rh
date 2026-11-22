@@ -1,6 +1,6 @@
 # RH-9.04 Fixed-width scalar defect
 
-[Repository index](../README.md) | [Editing guide and source edition](../CONTRIBUTING.md)
+[Repository index](../README.md) | [Editing rules and source edition](../README.md#updating-entries)
 
 **Kind** Conditional result. **Repair state** Conditional. **Patch state** Not recorded.
 
